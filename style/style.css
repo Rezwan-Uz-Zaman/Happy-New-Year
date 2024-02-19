@@ -1,3 +1,127 @@
-h3{
-    color: red;
+*{
+    margin: 0;
+    padding: 0;
 }
+
+
+/* shared font styles */
+.merriweather-bold {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+  
+  .inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+
+  }
+
+  .inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: medium;
+
+  }
+
+  .inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: bold;
+
+  }
+
+  .inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: Extrabold;
+
+  }
+
+.header{
+
+    background-image: url('../images/Banner\ Image.png');
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    align-items: center;
+    margin-bottom: 50px;
+    
+   
+     
+}
+
+.banner-container{
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: "Merriweather", serif; 
+    font-size: 40px;
+    line-height: 95px; 
+    text-align: center;
+    padding: 150px 344px 170px 344px;
+    background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%);
+    border-radius: 16px;
+
+}
+
+.Off{
+
+   text-align: center;
+    margin-top: 120px;
+    
+    
+}
+.Off .offer{
+
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 107px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.Off .OUR-HOLIDAY{
+
+color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+margin-bottom: 30px;
+}
+.Off .ALL-CATEGORIES{
+
+color: rgb(7, 2, 17);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+
+
+}
+
+.offer-image{
+  height: 400px;
+  background-color: 5px solid orangered;
+  padding-top: 40px; 
+ margin-bottom: 120px;
+}
+
+
+
+  
