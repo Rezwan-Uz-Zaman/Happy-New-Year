@@ -1,6 +1,8 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: "Merriweather", serif;
+    font-family: "Inter", sans-serif;
 }
 
 
@@ -58,8 +60,7 @@
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
-    margin-bottom: 50px;
-    
+   margin: 50px 50px 0px  50px;
    
      
 }
@@ -81,7 +82,8 @@
 .Off{
 
    text-align: center;
-    margin-top: 120px;
+    margin-top: 0px;
+   
     
     
 }
@@ -132,7 +134,7 @@ line-height: 58px;
   background-size: cover;
   padding: 126px 550px 100px 126px;
 /* position: relative; */
-  
+  margin: 0 50px 0px 50px;
 }
 
 
@@ -182,12 +184,12 @@ padding: 10px 20px;
 .new-year-logo {
 
 height: 400px;
-padding-left: 850px;
+padding-left: 700px;
 padding-top:0px ;
-padding-bottom: 700px;
+/* padding-bottom: 700px; */
  position: relative;  
 /* top:-22em; */
-top: -380px;
+top: -420px;
 
 }
 
