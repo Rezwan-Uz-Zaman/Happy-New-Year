@@ -134,7 +134,7 @@ line-height: 58px;
   background-size: cover;
   padding: 126px 550px 100px 126px;
 /* position: relative; */
-  margin: 0 50px 0px 50px;
+  margin: 0 50px 120px 50px;
 }
 
 
@@ -191,6 +191,58 @@ padding-top:0px ;
 /* top:-22em; */
 top: -420px;
 
+}
+/* date-and-time-part related style */
+
+.date-and-time-part{
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 600;
+line-height: 40px; 
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize; 
+margin-top: 100px; 
+margin-bottom: 100px;
+background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+padding: 50px 300px 50px 300px;  
+margin-right: 50px;
+margin-left: 50px;
+  
+
+}
+ .Place {
+
+color: #f93a13;
+
+} 
+
+.Date{
+  color: #f93a13;
+
+}
+.Time{
+  color: #f93a13;
+
+}
+
+
+.Join-Now-second{
+border-radius: 8px;
+background: rgb(255, 0, 0);
+border: 0;
+color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 15px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: uppercase;
+padding: 6px 12px;
+margin-top: 30px;
 }
 
 
