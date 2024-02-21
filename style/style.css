@@ -487,9 +487,7 @@ padding-top: 16px;
 
  .BEST-GIFTS-Awesome-Portfolio-container{
   margin-top: 48px;
-border: 2px solid orangered;
   display: flex;
- 
   margin-left: 50px;
   margin-right: 50px;
 
@@ -497,8 +495,7 @@ border: 2px solid orangered;
 }
 
 img{
-  
-  
+
 
   height: 400px;
   
@@ -510,7 +507,7 @@ img{
 }
 
 .BEST-GIFTS-Awesome-Portfolio-container-two{
-border: 2px solid orange;
+
   display: flex;
   margin-left:50px ;
   margin-right: 50px;
