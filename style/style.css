@@ -444,7 +444,9 @@ margin-left: 30px;
 
 .BEST-GIFTS-Awesome-Portfolio-part{
 
-margin: 0px 30px 0px 30px;
+margin: 0px 50px 0px 50px;
+ padding-left: 70px; 
+
 
 }
 
@@ -488,18 +490,26 @@ padding-top: 16px;
  .BEST-GIFTS-Awesome-Portfolio-container{
   margin-top: 48px;
   display: flex;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 40px;
+  margin-right: 40px;
+  border-radius: 16px;
+  background: url(1);
+  padding-left: 60px;
 
-  
+ 
 }
 
 img{
 
-
-  height: 400px;
-  
+  height: 380px;
+   border: solid 1px transparent; 
 }
+
+ img:hover {
+  border-color: orangered;
+} 
+
+
 
 .Portfolio-img-column{
   
@@ -509,6 +519,10 @@ img{
 .BEST-GIFTS-Awesome-Portfolio-container-two{
 
   display: flex;
-  margin-left:50px ;
-  margin-right: 50px;
+  margin-left:40px ;
+  margin-right: 40px;
+  border-radius: 16px;
+  padding-left: 60px;
+  
 } 
+
